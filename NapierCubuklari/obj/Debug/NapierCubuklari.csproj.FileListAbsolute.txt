@@ -1,0 +1,37 @@
+C:\Users\user\Desktop\NÖRON\NÖRON KODLAMA\C#\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.csprojAssemblyReference.cache
+C:\Users\user\Desktop\NÖRON\NÖRON KODLAMA\C#\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.Form1.resources
+C:\Users\user\Desktop\NÖRON\NÖRON KODLAMA\C#\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.Properties.Resources.resources
+C:\Users\user\Desktop\NÖRON\NÖRON KODLAMA\C#\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.csproj.GenerateResource.cache
+C:\Users\user\Desktop\NÖRON\NÖRON KODLAMA\C#\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NÖRON\NÖRON KODLAMA\C#\NapierCubuklari\NapierCubuklari\bin\Debug\NapierCubuklari.exe.config
+C:\Users\user\Desktop\NÖRON\NÖRON KODLAMA\C#\NapierCubuklari\NapierCubuklari\bin\Debug\NapierCubuklari.exe
+C:\Users\user\Desktop\NÖRON\NÖRON KODLAMA\C#\NapierCubuklari\NapierCubuklari\bin\Debug\NapierCubuklari.pdb
+C:\Users\user\Desktop\NÖRON\NÖRON KODLAMA\C#\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.exe
+C:\Users\user\Desktop\NÖRON\NÖRON KODLAMA\C#\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.pdb
+G:\SayiSistemi\NapierCubuklari\NapierCubuklari\bin\Debug\NapierCubuklari.exe.config
+G:\SayiSistemi\NapierCubuklari\NapierCubuklari\bin\Debug\NapierCubuklari.exe
+G:\SayiSistemi\NapierCubuklari\NapierCubuklari\bin\Debug\NapierCubuklari.pdb
+G:\SayiSistemi\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.csprojAssemblyReference.cache
+G:\SayiSistemi\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.Form1.resources
+G:\SayiSistemi\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.Properties.Resources.resources
+G:\SayiSistemi\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.csproj.GenerateResource.cache
+G:\SayiSistemi\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.csproj.CoreCompileInputs.cache
+G:\SayiSistemi\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.exe
+G:\SayiSistemi\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.pdb
+C:\Users\asdas\OneDrive\Masaüstü\NapierCubuklari\NapierCubuklari\bin\Debug\NapierCubuklari.exe.config
+C:\Users\asdas\OneDrive\Masaüstü\NapierCubuklari\NapierCubuklari\bin\Debug\NapierCubuklari.exe
+C:\Users\asdas\OneDrive\Masaüstü\NapierCubuklari\NapierCubuklari\bin\Debug\NapierCubuklari.pdb
+C:\Users\asdas\OneDrive\Masaüstü\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.csprojAssemblyReference.cache
+C:\Users\asdas\OneDrive\Masaüstü\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.Form1.resources
+C:\Users\asdas\OneDrive\Masaüstü\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.Properties.Resources.resources
+C:\Users\asdas\OneDrive\Masaüstü\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.csproj.GenerateResource.cache
+C:\Users\asdas\OneDrive\Masaüstü\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.csproj.CoreCompileInputs.cache
+C:\Users\asdas\OneDrive\Masaüstü\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.exe
+C:\Users\asdas\OneDrive\Masaüstü\NapierCubuklari\NapierCubuklari\obj\Debug\NapierCubuklari.pdb
+C:\Users\Barış\Desktop\PROJELER\Sayı sistemi-Barış-Fuat\NapierCubuklari\obj\Debug\NapierCubuklari.csprojAssemblyReference.cache
+C:\Users\Barış\Desktop\PROJELER\Sayı sistemi-Barış-Fuat\NapierCubuklari\obj\Debug\NapierCubuklari.Form1.resources
+C:\Users\Barış\Desktop\PROJELER\Sayı sistemi-Barış-Fuat\NapierCubuklari\obj\Debug\NapierCubuklari.Properties.Resources.resources
+C:\Users\Barış\Desktop\PROJELER\Sayı sistemi-Barış-Fuat\NapierCubuklari\obj\Debug\NapierCubuklari.csproj.GenerateResource.cache
+C:\Users\Barış\Desktop\PROJELER\Sayı sistemi-Barış-Fuat\NapierCubuklari\obj\Debug\NapierCubuklari.csproj.CoreCompileInputs.cache
+C:\Users\Barış\Desktop\PROJELER\Sayı sistemi-Barış-Fuat\NapierCubuklari\obj\Debug\NapierCubuklari.exe
+C:\Users\Barış\Desktop\PROJELER\Sayı sistemi-Barış-Fuat\NapierCubuklari\obj\Debug\NapierCubuklari.pdb
